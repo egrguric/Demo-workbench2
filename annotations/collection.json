@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://egrguric.github.io/Demo-workbench2/annotations/9b9cd8e4c056b6986c3e467a49a7736f.json" ],
+  "@id" : "https://egrguric.github.io/Demo-workbench2/annotations/collection.json",
+  "label" : "All annotations loaded in egrguric/Demo-workbench2 project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
