@@ -1,0 +1,11 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://egrguric.github.io/Demo-workbench2/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in egrguric/Demo-workbench2 project"
+        ]
+    },
+    "items": []
+}
